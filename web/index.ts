@@ -142,16 +142,15 @@ const markdownOptions: DropdownOption[] = [
 ];
 
 const imageLightOptions: DropdownOption[] = [
-    { text: 'Vercel', value: 'https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg' },
-    { text: 'Next.js', value: 'https://assets.vercel.com/image/upload/front/assets/design/nextjs-black-logo.svg' },
-    { text: 'Hyper', value: 'https://assets.vercel.com/image/upload/front/assets/design/hyper-color-logo.svg' },
+    { text: 'Wego', value: 'https://wegotech.io/images/brand-assets/wego/wego%20dark.svg' },
+    { text: 'Gatego', value: 'https://wegotech.io/images/brand-assets/gatego/gatego%20dark.svg' },
+    { text: 'Freightgo', value: 'https://wegotech.io/images/brand-assets/freightgo/freightgo%20dark.svg' },
 ];
 
 const imageDarkOptions: DropdownOption[] = [
-
-    { text: 'Vercel', value: 'https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-white.svg' },
-    { text: 'Next.js', value: 'https://assets.vercel.com/image/upload/front/assets/design/nextjs-white-logo.svg' },
-    { text: 'Hyper', value: 'https://assets.vercel.com/image/upload/front/assets/design/hyper-bw-logo.svg' },
+    { text: 'Wego', value: 'https://wegotech.io/images/brand-assets/wego/wego%20all-white.svg' },
+    { text: 'Gatego', value: 'https://wegotech.io/images/brand-assets/gatego/gatego%20all-white.svg' },
+    { text: 'Freightgo', value: 'https://wegotech.io/images/brand-assets/freightgo/freightgo%20all-white.svg' },
 ];
 
 const widthOptions = [
